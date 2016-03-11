@@ -1,0 +1,1 @@
+﻿select * from dbo.vw客入資料 where 姓名 is not null
